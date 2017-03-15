@@ -1,0 +1,6 @@
+c:\users\david.salinas\documents\visual studio 2015\Projects\PruebasConsole\PruebasConsole\bin\Debug\PruebasConsole.exe.config
+c:\users\david.salinas\documents\visual studio 2015\Projects\PruebasConsole\PruebasConsole\bin\Debug\PruebasConsole.exe
+c:\users\david.salinas\documents\visual studio 2015\Projects\PruebasConsole\PruebasConsole\bin\Debug\PruebasConsole.pdb
+c:\users\david.salinas\documents\visual studio 2015\Projects\PruebasConsole\PruebasConsole\obj\Debug\PruebasConsole.csprojResolveAssemblyReference.cache
+c:\users\david.salinas\documents\visual studio 2015\Projects\PruebasConsole\PruebasConsole\obj\Debug\PruebasConsole.exe
+c:\users\david.salinas\documents\visual studio 2015\Projects\PruebasConsole\PruebasConsole\obj\Debug\PruebasConsole.pdb
