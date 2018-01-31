@@ -4,3 +4,10 @@ c:\users\david.salinas\documents\visual studio 2015\Projects\PruebasConsole\Prue
 c:\users\david.salinas\documents\visual studio 2015\Projects\PruebasConsole\PruebasConsole\obj\Debug\PruebasConsole.csprojResolveAssemblyReference.cache
 c:\users\david.salinas\documents\visual studio 2015\Projects\PruebasConsole\PruebasConsole\obj\Debug\PruebasConsole.exe
 c:\users\david.salinas\documents\visual studio 2015\Projects\PruebasConsole\PruebasConsole\obj\Debug\PruebasConsole.pdb
+C:\Users\d.salinas\Documents\Visual Studio 2015\Projects\PruebasConsole\PruebasConsole\bin\Debug\PruebasConsole.exe.config
+C:\Users\d.salinas\Documents\Visual Studio 2015\Projects\PruebasConsole\PruebasConsole\bin\Debug\PruebasConsole.exe
+C:\Users\d.salinas\Documents\Visual Studio 2015\Projects\PruebasConsole\PruebasConsole\bin\Debug\PruebasConsole.pdb
+C:\Users\d.salinas\Documents\Visual Studio 2015\Projects\PruebasConsole\PruebasConsole\obj\Debug\PruebasConsole.csprojResolveAssemblyReference.cache
+C:\Users\d.salinas\Documents\Visual Studio 2015\Projects\PruebasConsole\PruebasConsole\obj\Debug\PruebasConsole.csproj.CoreCompileInputs.cache
+C:\Users\d.salinas\Documents\Visual Studio 2015\Projects\PruebasConsole\PruebasConsole\obj\Debug\PruebasConsole.exe
+C:\Users\d.salinas\Documents\Visual Studio 2015\Projects\PruebasConsole\PruebasConsole\obj\Debug\PruebasConsole.pdb

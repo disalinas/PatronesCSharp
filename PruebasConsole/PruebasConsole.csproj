@@ -48,6 +48,20 @@
     <Compile Include="Patrones\Composite\Ejemplo1\Opcion.cs" />
     <Compile Include="Patrones\Composite\Ejemplo1\PuntoMenu.cs" />
     <Compile Include="Patrones\Ejemplo.cs" />
+    <Compile Include="Patrones\Visitor\Ejemplo1\EjemploImpl1.cs" />
+    <Compile Include="Patrones\Visitor\Ejemplo1\Element.cs" />
+    <Compile Include="Patrones\Visitor\Ejemplo1\IVA.cs" />
+    <Compile Include="Patrones\Visitor\Ejemplo1\ProductoDescuento.cs" />
+    <Compile Include="Patrones\Visitor\Ejemplo1\ProductoNormal.cs" />
+    <Compile Include="Patrones\Visitor\Ejemplo1\Visitor.cs" />
+    <Compile Include="Patrones\Visitor\Ejemplo2\ConcreteElementA.cs" />
+    <Compile Include="Patrones\Visitor\Ejemplo2\ConcreteElementB.cs" />
+    <Compile Include="Patrones\Visitor\Ejemplo2\ConcreteVisitor1.cs" />
+    <Compile Include="Patrones\Visitor\Ejemplo2\ConcreteVisitor2.cs" />
+    <Compile Include="Patrones\Visitor\Ejemplo2\EjemploImpl2.cs" />
+    <Compile Include="Patrones\Visitor\Ejemplo2\Element.cs" />
+    <Compile Include="Patrones\Visitor\Ejemplo2\ObjectStructure.cs" />
+    <Compile Include="Patrones\Visitor\Ejemplo2\Visitor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
